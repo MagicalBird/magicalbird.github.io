@@ -7,3 +7,4 @@ welcome to Liguowei's personal site
 
 - [单击进入我的wiki](./wiki)
 - i will decorate this site in my radom time.
+- testing
